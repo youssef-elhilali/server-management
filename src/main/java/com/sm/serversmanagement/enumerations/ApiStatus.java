@@ -1,2 +1,7 @@
-package com.sm.serversmanagement.enumerations;public enum ApiStatus {
+package com.sm.serversmanagement.enumerations;
+
+public enum ApiStatus {
+
+    SUCCESS, FAILED;
+
 }

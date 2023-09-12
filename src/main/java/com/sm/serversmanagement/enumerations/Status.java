@@ -1,4 +1,4 @@
-package com.sm.serversmanagement.enumeration;
+package com.sm.serversmanagement.enumerations;
 
 public enum Status {
 
